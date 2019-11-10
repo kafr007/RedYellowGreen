@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Red or Yellow or Green card</string>
+    <string name="red">Red</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
+    <string name="choose_a_card">Choose a card!</string>
+</resources>
